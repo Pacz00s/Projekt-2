@@ -1,0 +1,45 @@
+body
+{
+    margin: 0;
+}
+
+header
+{
+    height: 10vh;
+    background-color: black;
+}
+
+main
+{
+    
+}
+
+article
+{
+    background-color: yellow;
+    height: 86vh;
+    width: 100vw;
+    display: flex;
+}
+
+#ad 
+{
+    position: relative;
+	height: 100%;
+    width: 70%;
+    background-color: blue;
+}
+
+#funnyguy 
+{
+    position: relative;
+	height: 100%;
+    width: 30%;
+    background-color: red;
+}
+
+footer
+{
+    background-color: gray;
+    height: 4vh;
+}
