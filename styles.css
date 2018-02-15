@@ -7,7 +7,13 @@ header
 {
     height: 10vh;
     background-color: black;
+    display: flex;
 }
+#siginup 
+{
+    background-color: aqua;
+}
+
 
 main
 {
